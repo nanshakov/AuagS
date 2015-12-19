@@ -1,0 +1,6 @@
+Распаковщик.exe
+E:\S.T.A.L.K.E.R\
+D:\Stalker SHоC\1\
+YES
+gamedata.db1
+/gamedata.db2
